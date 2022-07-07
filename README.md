@@ -3,7 +3,6 @@
   <a href="/Pic.png"><img src="Pic.png" widthh= alt="TryHackMe Scripting"></a>
 </h1>
 
-<h4 align="center">Writeup Of TryHackMe Scripting Room With Exploit!</h4>
 <p align="center">
 <a href="https://github.com/0xrobiul/THM-Scripting/issues">
 <img src="https://img.shields.io/github/issues/0xrobiul/THM-Scripting">
